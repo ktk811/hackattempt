@@ -1,0 +1,9 @@
+Flask
+pymongo
+bcrypt
+certifi
+requests
+numpy
+pandas
+earthengine-api
+scikit-learn
